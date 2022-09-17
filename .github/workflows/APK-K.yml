@@ -18,7 +18,7 @@ jobs:
         run: git clone -b main --depth=1 https://github.com/kensonmiao/CatVodTVOSC.git
       - name: DIY
         run: |
-          chmod +x diy-K.sh
+          chmod +x diy-TV.sh
           bash ${{ github.workspace }}/diy-K.sh
       - name: Build With Gradle
         run: |
