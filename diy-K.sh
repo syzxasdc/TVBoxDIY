@@ -10,8 +10,8 @@ sed -i 's/com.github.tvbox.osc/com.github.tvbox.osc.ks/g' $CURRENT_DIR/$DIR/app/
 #xwalk修复
 #sed -i 's/download.01.org\/crosswalk\/releases\/crosswalk\/android\/maven2/raw.githubusercontent.com\/lm317379829\/TVBoxDIY\/main/g' $CURRENT_DIR/$DIR/build.gradle
 #改名
-sed -i 's/TV猫盒/优TV/g' $CURRENT_DIR/$DIR/app/src/main/res/values/strings.xml
-sed -i 's/TV猫盒/优TV/g' $CURRENT_DIR/$DIR/app/build.gradle
+sed -i 's/TV猫盒/TVBox/g' $CURRENT_DIR/$DIR/app/src/main/res/values/strings.xml
+sed -i 's/TV猫盒/TVBox/g' $CURRENT_DIR/$DIR/app/build.gradle
 #背景修改
 mv $CURRENT_DIR/DIY/app_bg.png $CURRENT_DIR/$DIR/app/src/main/res/drawable/app_bg.png
 #图标修改
