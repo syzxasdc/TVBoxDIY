@@ -8,4 +8,4 @@ APK-J Build为本地爬虫-俊版，APK-T Build为本地爬虫taka版，APK-O Bu
 
 diy-J.sh、diy-T.sh、diy-O.sh、diy-TV.sh分别为俊版、taka版、原版自定义脚本，可自行修改apk名、背景、图标以及其他源码内容。
 
-找到apk_j.yml文件直接run,如果要修改就修改diy_j.sh文件
+找到apk_j.yml文件直接run,如果要修改就修改diy_j.sh文件   https://wwd.lanzout.com/b03jcoj5i 密码:7isg
